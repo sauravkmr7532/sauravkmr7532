@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurav-kumar-705972266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurav-kumar-705972266/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurav-kumar-705972266/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1661161645857710081%2F6WtDIesg_400x400.png&tbnid=Dpz2K1Dg0Z14yM&vet=12ahUKEwiQu8_OofqBAxUxkmMGHcfgA7EQMygBegQIARBt..i&imgrefurl=https%3A%2F%2Ftwitter.com%2FLinkedIn&docid=Q9GqTHU7SvLXVM&w=400&h=400&q=linkedin&ved=2ahUKEwiQu8_OofqBAxUxkmMGHcfgA7EQMygBegQIARBt" alt="https://www.linkedin.com/in/saurav-kumar-705972266/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_sauravkmr_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_sauravkmr_/" height="30" width="40" /></a>
 </p>
 
